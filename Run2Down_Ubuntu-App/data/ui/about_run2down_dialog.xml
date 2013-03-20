@@ -1,0 +1,9 @@
+<glade-catalog name="about_run2down_dialog" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="About Run2down Dialog" name="AboutRun2downDialog" 
+                        generic-name="AboutRun2downDialog" parent="GtkAboutDialog"
+                        icon-name="widget-gtk-about-dialog"/>
+  </glade-widget-classes>
+
+</glade-catalog>

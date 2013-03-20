@@ -1,0 +1,8 @@
+<glade-catalog name="run2down_window" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="Run2down Window" name="Run2downWindow" 
+                        generic-name="Run2downWindow" parent="GtkWindow"
+                        icon-name="widget-gtk-window"/>
+  </glade-widget-classes>
+</glade-catalog>

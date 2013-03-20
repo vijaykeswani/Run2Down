@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Run2down
+_Comment=Run2down application
+Categories=GNOME;Utility;
+Exec=run2down
+Icon=run2down
+Terminal=false
+Type=Application
